@@ -1,0 +1,26 @@
+{
+  "name": "adopt-me",
+  "version": "0.0.1",
+  "description": "Homework application from FrontendMasters React course",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js, jsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiyDmytruk/adopt-me-hm.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Dmytruk Serhii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiyDmytruk/adopt-me-hm/issues"
+  },
+  "homepage": "https://github.com/SerhiyDmytruk/adopt-me-hm#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
