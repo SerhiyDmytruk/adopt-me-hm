@@ -19,12 +19,12 @@ const Details = () => {
   return (
     <div className="details">
       <div>
-      <h1>{pet.name}</h1>
-      <h2>
-        {pet.animal} - {pet.breed} - {pet.city}, {pet.state}
-      </h2>
-      <button>Addopt {pet.name}</button>
-      <p>{pet.description}</p>
+        <h1>{pet.name}</h1>
+        <h2>
+          {pet.animal} - {pet.breed} - {pet.city}, {pet.state}
+        </h2>
+        <button>Addopt {pet.name}</button>
+        <p>{pet.description}</p>
       </div>
     </div>
   );
